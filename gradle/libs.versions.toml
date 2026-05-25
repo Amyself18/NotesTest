@@ -23,7 +23,7 @@ junit = "4.13.2"
 mockk = "1.14.9"
 robolectric = "4.16.1"
 #Gradle
-gradlePlugins-agp = "9.2.0"
+gradlePlugins-agp = "9.2.1"
 #build
 app-build-compileSDKVersion = "36"
 app-build-targetSDK = "36"
